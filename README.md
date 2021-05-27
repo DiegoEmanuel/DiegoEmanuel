@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Emanuel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-emanuel-69ab4a162/)](https://www.linkedin.com/in/diego-emanuel-69ab4a162/) 
-[![Github Badge]
+[![Github Badge](https://img.shields.io/badge/-Diego%20Emanuel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-emanuel-69ab4a162/)](https://www.linkedin.com/in/diego-emanuel-69ab4a162/) 
 **DiegoEmanuel/DiegoEmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

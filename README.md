@@ -1,9 +1,6 @@
 ### Hi there 👋
 **DiegoEmanuel/DiegoEmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Emanuel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-emanuel-69ab4a162/)](https://www.linkedin.com/in/diego-emanuel-69ab4a162/) 
-[![Github Badge](https://img.shields.io/badge/-Diego%20Emanuel-6633cc?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DiegoEmanuel/)](https://github.com/DiegoEmanuel/) 
-[![Instagram Badge](https://img.shields.io/badge/-Diego%20Emanuel-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/diego.efc/)](https://instagram.com/diego.efc/) 
 
 
 Here are some ideas to get you started:

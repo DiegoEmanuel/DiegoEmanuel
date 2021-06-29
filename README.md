@@ -1,11 +1,7 @@
 ### Hi there 👋
 **DiegoEmanuel/DiegoEmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
-<h1>##</h1>
+
 - 🔭 I’m currently working project for helping people
 - 🌱 I’m currently learning php on framework laravel ...
 - 👯 I’m looking to collaborate on people who want to donate to find an easier association. ...
@@ -18,3 +14,7 @@
 - 😄 Pronouns: Scry ...
 - ⚡ Fun fact: 3,5k dota 2 player :D ...
 
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>

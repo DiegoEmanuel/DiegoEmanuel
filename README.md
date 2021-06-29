@@ -1,5 +1,5 @@
 ### Hi there 👋
-**DiegoEmanuel/DiegoEmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ _special_ ✨ repository 
 
 
 - 🔭 I’m currently working project for helping people

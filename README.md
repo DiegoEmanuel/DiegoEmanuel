@@ -1,7 +1,8 @@
 ### Hi there 👋
 ✨ _special_ ✨ repository 
+
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoEmanuel&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DiegoEmanuel/github-readme-stats)
+
 
 
 - 🔭 I’m currently working project for helping people
@@ -27,3 +28,4 @@
 	
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoEmanuel&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DiegoEmanuel/github-readme-stats)

@@ -24,3 +24,5 @@
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="150" height="150">
 	
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoEmanuel&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DiegoEmanuel/github-readme-stats)

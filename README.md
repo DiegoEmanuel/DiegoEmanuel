@@ -1,6 +1,6 @@
 ### Hi there 👋
 ✨ _special_ ✨ repository 
-
+<img align="center" src="https://profile-counter.glitch.me/diegoemanuel/count.svg">
 <div>
 
 

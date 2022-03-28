@@ -12,7 +12,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Emanuel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-emanuel-69ab4a162/)](https://www.linkedin.com/in/diego-emanuel-69ab4a162/) 
 [![Github Badge](https://img.shields.io/badge/-Diego%20Emanuel-6633cc?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DiegoEmanuel/)](https://github.com/DiegoEmanuel/) 
 [![Instagram Badge](https://img.shields.io/badge/-Diego%20Emanuel-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/diego.efc/)](https://instagram.com/diego.efc/)  ...
-- ⚡ Fun fact: 3,5k dota 2 player :D ...
 </div>
 <div align="center">
 	<br>

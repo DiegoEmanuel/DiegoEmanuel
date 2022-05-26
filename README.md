@@ -1,9 +1,7 @@
 ### Hi there 👋
-✨ _special_ ✨ repository 
+✨ _special_ ✨ repository <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="10" height="10"><img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="10" height="10">
 <img align="center" src="https://profile-counter.glitch.me/diegoemanuel/count.svg">
 <div>
-
-
 
 - 🔭 I’m currently working project for helping people...
 - 🌱 I’m currently learning vue and reactjs ....

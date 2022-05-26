@@ -1,5 +1,5 @@
 ### Hi there 👋
-✨ _special_ ✨ repository <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="35" height="35"><img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="35" height="35">
+✨ _special_ ✨ repository 
 <img align="center" src="https://profile-counter.glitch.me/diegoemanuel/count.svg">
 <div>
 
@@ -11,6 +11,6 @@
 [![Github Badge](https://img.shields.io/badge/-Diego%20Emanuel-6633cc?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DiegoEmanuel/)](https://github.com/DiegoEmanuel/) 
 [![Instagram Badge](https://img.shields.io/badge/-Diego%20Emanuel-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/diego.efc/)](https://instagram.com/diego.efc/)  ...
 </div>
-
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="35" height="35"><img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="35" height="35">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoEmanuel&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DiegoEmanuel/github-readme-stats)

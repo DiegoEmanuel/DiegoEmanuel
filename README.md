@@ -1,5 +1,5 @@
 ### Hi there 👋
-✨ _special_ ✨ repository <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="10" height="10"><img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="10" height="10">
+✨ _special_ ✨ repository <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="35" height="35"><img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="35" height="35">
 <img align="center" src="https://profile-counter.glitch.me/diegoemanuel/count.svg">
 <div>
 

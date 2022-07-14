@@ -4,6 +4,7 @@
 <div>
 
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png"><img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png"><img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24" style="max-width: 100%;"></a>
 
 
 - 🌱 I’m currently learning flutter  ....

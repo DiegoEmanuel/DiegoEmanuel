@@ -18,5 +18,5 @@
 <row>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoEmanuel&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoEmanuel&layout=compact&text_color=daf7dc&bg_color=151515)]      (https://github.com/DiegoEmanuel/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoEmanuel&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DiegoEmanuel/github-readme-stats)
 </row>

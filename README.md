@@ -14,9 +14,9 @@
 <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="35" height="35">
   
   <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="35" height="35">
-
-
+  </row>
+<row>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoEmanuel&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoEmanuel&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DiegoEmanuel/github-readme-stats) 
-  </row>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoEmanuel&layout=compact&text_color=daf7dc&bg_color=151515)]      (https://github.com/DiegoEmanuel/github-readme-stats)
+</row>

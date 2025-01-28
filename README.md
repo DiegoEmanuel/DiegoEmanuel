@@ -24,9 +24,8 @@
 
 ### 📈 **Atividade Recente**
 
-<!--START_SECTION:activity-->
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DiegoEmanuel&theme=react-dark)](https://github.com/DiegoEmanuel)
-<!--END_SECTION:activity-->
+### 📅 Últimos Commits
+<!-- O script vai preencher esta seção automaticamente -->
 
 ---
 

@@ -1,0 +1,43 @@
+name: Daily Development Analysis
+
+on:
+  schedule:
+    # Executa todo dia às 8:00 AM (UTC)
+    - cron: '0 8 * * *'
+  push:
+    # Executa imediatamente se o README.md for modificado
+    paths:
+      - 'README.md'
+
+jobs:
+  analyze-development:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Instalar dependências
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas gitpython
+
+      - name: Executar análise de desenvolvimento
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Script para analisar commits e atualizar README
+          python scripts/analysis.py
+
+      - name: Commit das mudanças no README
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "📊 Atualização automática do README com análise diária [skip ci]"
+          git push

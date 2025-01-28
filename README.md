@@ -1,6 +1,6 @@
-👋 Olá, eu sou o Diego E
+👋 Olá, eu sou o Diego E.
 
-🚀 **Desenvolvedor Front-End** com 6+ anos de experiência  
+🚀 **Desenvolvedor de software** 
 📍 MG - Brasil | 📞 (38) 98829-4136  
 📧 diegoabox@gmail.com | 🌐 [Meu Site](https://telacode.com.br)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/seu-linkedin)

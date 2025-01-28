@@ -1,43 +1,47 @@
-name: Update README with Recent Commits
+name: Daily Development Analysis
 
 on:
   schedule:
-    # Executa diariamente às 8:00 AM (UTC)
     - cron: '0 8 * * *'
   push:
-    # Executa ao modificar arquivos do repositório
-    branches:
-      - main
+    paths:
+      - 'README.md'
 
 jobs:
-  update-readme:
+  analyze-development:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout do código
-      uses: actions/checkout@v4
+      - name: Checkout do código
+        uses: actions/checkout@v4
 
-    - name: Configurar Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-    - name: Instalar dependências
-      run: |
-        python -m pip install --upgrade pip
-        pip install gitpython
+      - name: Instalar dependências
+        run: |
+          python -m pip install --upgrade pip
+          pip install gitpython
 
-    - name: Executar script de análise
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: python scripts/analysis.py
+      - name: Gerenciar mudanças locais
+        run: |
+          git add .
+          git commit -m "Salvando mudanças locais antes do pull [skip ci]" || echo "Nada para commit"
 
-    - name: Commit e push das alterações
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git pull --rebase
-        git add README.md
-        git add .
-        git commit -m "📊 Atualização automática do README com análise diária [skip ci]" || echo "Nada para atualizar"
-        git push
+      - name: Atualizar branch local
+        run: git pull --rebase origin main
+
+      - name: Executar análise de desenvolvimento
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/analysis.py
+
+      - name: Commit das mudanças no README
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "📊 Atualização automática do README com análise diária [skip ci]"
+          git push

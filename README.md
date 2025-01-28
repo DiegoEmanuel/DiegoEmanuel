@@ -20,8 +20,6 @@
 </p>
 
 
-<!-- --- #changes-- -->
-
 ### 📈 **Atividade Recente**
 
 #

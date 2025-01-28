@@ -36,6 +36,7 @@ jobs:
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
+        git pull --rebase
         git add README.md
-        git commit -m "📊 Atualização automática do README com os últimos commits [skip ci]" || echo "Nada para atualizar"
+        git commit -m "📊 Atualização automática do README com análise diária [skip ci]" || echo "Nada para atualizar"
         git push

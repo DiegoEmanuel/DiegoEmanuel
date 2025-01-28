@@ -24,13 +24,7 @@
 
 ### 📈 **Atividade Recente**
 
-### 📅 Últimos Commits
-<!-- O script vai preencher esta seção automaticamente -->
+#
 
----
-
-### 📫 **Vamos Conversar?**  
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/diegoemanuel/count.svg" alt="Contador de visitas">
-</p>
+## 📅 Últimos Commits (gerado em 2025-01-28)
+- **[2025-01-28 17:03:21]** improve automation (por Diego EFC)

@@ -2,9 +2,7 @@
 
 🚀 **Desenvolvedor de software** 
 📍 MG - Brasil | 📞 (38) 98829-4136  
-📧 diegoabox@gmail.com | 🌐 [Meu Site](https://telacode.com.br)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/seu-linkedin)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/DiegoEmanuel)
+📧 diegoabox@gmail.com | 🌐 [Meu Site](https://telacode.com.br)  | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/seu-linkedin) |[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/DiegoEmanuel)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://instagram.com/diego.efc/)
 
 <img align="right" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="200">

@@ -1,11 +1,7 @@
 name: Update README with Recent Commits
 
 on:
-  schedule:
-    # Executa diariamente às 8:00 AM (UTC)
-    - cron: '0 8 * * *'
   push:
-    # Executa ao modificar arquivos do repositório
     branches:
       - main
 
@@ -14,29 +10,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout do código
+    - name: Checkout
       uses: actions/checkout@v4
 
-    - name: Configurar Python
+    - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.x'
 
-    - name: Instalar dependências
+    - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install gitpython
 
-    - name: Executar script de análise
+    - name: Run analysis script
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: python scripts/analysis.py
 
-    - name: Commit e push das alterações
+    - name: Commit and push changes
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
         git pull --rebase origin main
         git add README.md
-        git commit -m "📊 Atualização automática do README com análise diária [skip ci]" || echo "Nada para atualizar"
+        git commit -m "Update README" || echo "Nothing to update"
         git push
